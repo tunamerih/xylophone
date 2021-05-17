@@ -1,16 +1,12 @@
-
-
-
 # Xylophone 🎹
 
-## What you will create
+## App Image
 
-A music app that plays Xylophone sounds. 
+A music app for you to play xylophone.
 
-![App on Mobile Device]()
 
+![xylophone2](https://user-images.githubusercontent.com/24410744/118461199-1716f780-b706-11eb-9188-27f2defc9958.png)
 
 
 >This is a flutter app.
-
 
